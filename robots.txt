@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xiejucahta.liangsj.xyz/sitemap.xml
